@@ -1,0 +1,12 @@
+html
+{
+    background-color:yellow;
+    background-image: linear-gradient(to left,red, purple);
+}
+h1
+{
+    text-align: center;
+    margin: auto 0;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
